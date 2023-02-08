@@ -1,6 +1,7 @@
 # Irene Benedicto
 ## I'm a journalist specializing in investigations and data
 
+!['profile picture','profile picture'](/ib-profile pic.jpeg)
 
 
 
